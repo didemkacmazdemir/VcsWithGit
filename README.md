@@ -4,10 +4,15 @@ Git takes you and your friend changes are maded by independently and merges them
 What is a Repository ?
 repo is nothing but a collection of source code.
 
+
+
 working directory - (Git Add) -> Staging Area - (Git Commit) -> Local Repo(HEAD) - (Git Push) -> Remote Repo(MASTER)
 
 (            From local to working directory <- Git Merge                      )  ( from remote to local <- Git Fetch )
 (                                             <- Git Pull <-                                                          )
+
+
+
 1-) git add : is a command used to add a file that is in the working directory to the staging area.
 2-) git commit : is a command used to add all files that are staged to the local repository.
 3-) git push : is a command used to add all committed files in the local repository to the remote repository. 
