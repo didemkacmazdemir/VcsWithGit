@@ -9,6 +9,7 @@ repo is nothing but a collection of source code.
 working directory - (Git Add) -> Staging Area - (Git Commit) -> Local Repo(HEAD) - (Git Push) -> Remote Repo(MASTER)
 
 (            From local to working directory <- Git Merge                      )  ( from remote to local <- Git Fetch )
+
 (                                             <- Git Pull <-                                                          )
 
 
